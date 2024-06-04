@@ -1,0 +1,41 @@
+Joseph Cox's "Dark Wire" (permalink)
+
+No one was better positioned to tell the tale of the largest sting operation in world history than veteran tech reporter Joseph Cox, and tell it he did, in Dark Wire, released today:
+
+https://www.hachettebookgroup.com/titles/joseph-cox/dark-wire/9781541702691/
+
+Cox – who was one of Motherboard's star cybersecurity reporters before leaving to co-found 404 Media – has spent years on the crimephone beat, tracking vendors who sold modded phones (first Blackberries, then Android phones) to criminal syndicates with the promise that they couldn't be wiretapped by law-enforcement.
+
+It's possible that some of these phones were secure over long timescales, but all the ones we know about are ones that law enforcement eventually caught up with, usually by capturing the company's top founders explicitly stating that the phones were sold to assist in the commission of crimes, and admitting to remote-wiping phones to obstruct law-enforcement options. It's hard to prove intent but it gets a lot easier when the criminal puts that intent into writing (that's true of tech executives, too!):
+
+https://pluralistic.net/2023/09/03/big-tech-cant-stop-telling-on-itself/
+
+But after a particularly spectacular bust landed one of the top crimephone sales reps in the FBI's power, they got a genuinely weird idea: why not start their own crimephone company?
+
+The plan was to build an incredibly secure, best-of-breed crimephone, one with every feature that a criminal would want to truly insulate themselves from law enforcement while still offering everything a criminal could need to plan and execute crimes.
+
+They would tap into the network of crimephone distributors around the world, not telling them who they were truly selling for – nor that every one of these phones had a back-door that allowed law-enforcement to access every single message, photo and file.
+
+This is the beginning of an incredible tale that is really two incredible tales. The first is the story of the FBI and its partners as they scaled up Anom, their best-of-breed crimephone business. This is a (nearly) classic startup tale, full of all-nighters, heroic battles against the odds, and the terror and exhilaration of "hockey-stick" growth.
+
+The difference between this startup and the others we're already familiar with is obvious: the FBI and its global partners are acting under a totally different set of constraints to normal startup founders. For one thing, their true mission and identity must be kept totally secret. For another, they have to navigate the bureaucratic barriers of not one, but many governments and their courts, constitutions and procedures.
+
+Finally, there are the stakes: while the bulk of the crimes that the FBI targets with Anom are just the usual futile war-on-drugs nonsense (albeit at a never-before seen scale), they also routinely encounter murders, kidnappings, tortures, firebombings, and other serious crimes, either in the planning phase, or after they have been committed. They have to make moment-to-moment calls about when and whether to do something about these, as each action taken based on intercepts from Anom threatens to tip the FBI's hand.
+
+That's one of the startup stories in Cox's book. The other one is the crime startup, the one that the hapless criminal syndicates that sign up to distribute Anom devices find themselves in the middle of. They, too, are experiencing hockey-stick growth. They, too, have a fantastically lucrative tiger by the tail. And they, too, have a unique set of challenges that make this startup different from any other.
+
+The obvious difference is that they are involved in global criminal conspiracies. They have to both grow and remain hidden. The tradecraft and skullduggery are fascinating, in the manner of any great crime procedural tale. But there's another constraint: these criminals are competing with one another to corner the market on these incredibly lucrative phones. Being part of violent, global criminal conspiracies, they don't confine themselves to the normal Silicon Valley crimes of violating antitrust law – they are engaged in all-out warfare.
+
+These two startups are, of course, the same startup, but only one side knows it. As Cox weaves these two tales together – along with glimpses into the lives of the hapless gig-work developers in Asia who are developing and maintaining the Anom platform – we get front seat in a series of high-speed, high-stakes near-collisions between these two groups.
+
+And it's not always the cops who have the advantage. When an ambitious mobster figures out how to clone the "black boxes" that initialize new Anom phones, the FBI are caught flatfooted as the number of Anom devices in the hands of criminals balloons, producing a volume of intercepts that vastly exceeds their processing capacity.
+
+Cox has been on this story for a decade, and it shows. He has impeccable sourcing and encyclopedic access to the court records and other public details that allow him to reproduce many of the most dramatic scenes in the Anom caper verbatim. This really shines in the final section of the book, when the FBI and its partners decide to roll up the company with a series of global arrests that culminate in a triumphant press-conference in which the true masters of Anom are revealed.
+
+As a privacy and encryption advocate, there were moments in this story that made me a little uncomfortable. There are places where the FBI is chafing at the constitutional limits on its surveillance powers where we can't help buy sympathize with these "good guys" going after "bad guys." But this the the FBI, a lawless, unaccountable secret police who routinely bypass those limits by secretly buying data from sleazy data-brokers, or illegally sharing data with the NSA.
+
+The conclusion really hammers home the point that the FBI's problem isn't constitutional niceties. Despite seizing hundreds of tons of illegal drugs and arresting thousands of high-ranking criminal syndicate bosses, Anom made no difference in the drug trade. Prohibition, after all, just makes criminals more wealthy and powerful. The Anom raids were, at worst, the cost of doing business – and at best, they were a global reset that cleared the board of established actors so that other criminals could seize their turf.
+
+But even though Anom didn't triumph over crime, Dark Wire is a triumph. The book's out today, and there will shortly be a Netflix adaptation based on it, directed by Jason Bateman:
+
+https://deadline.com/2022/09/jason-bateman-netflix-21-laps-dark-wire-surveillance-gangs-movie-1235130444/
