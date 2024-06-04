@@ -1,7 +1,7 @@
 # RAG Ollama - a simple example of RAG using ollama and llama-index
 Ollama is an cross-platform executable that allows the use of LLMs locally. Llama-index is a platform that facilitates the building of RAG applications. Chroma is a vector database that is used to store embeddings.
 
-# quick start:
+## quick start:
 
 ### install ollama
 Instructions for your system should be here: https://ollama.com/.
@@ -33,12 +33,12 @@ When the process has completed it will print a --> at which point you can ask qu
 
 
 
-# Note on the text used as example:
+## Note on the text used as example:
 
 The example passage given cd_data/cd_post.txt is a book review blog posting from Cory Doctorow from his Medium page https://doctorow.medium.com/https-pluralistic-net-2024-06-04-anom-nom-nom-the-call-is-coming-from-inside-the-ndrangheta-75d8c8fabfe4. No changes have been made to the original text. The text is licensed under the Creative Commons 4 license: https://creativecommons.org/licenses/by/4.0/legalcode.
 
 
-# Example of running starter.py (user input in bold, model response follows):
+## Example of running starter.py (user input in bold, model response follows):
 
 % python starter.py
 
